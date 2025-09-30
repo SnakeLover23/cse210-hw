@@ -30,23 +30,23 @@ class Program
 
         video1.Display();
         Console.WriteLine("");
-        Console.Write("Press enter to continue.");
-        Console.ReadLine();
-        Console.Clear();
+        // Console.Write("Press enter to continue.");
+        // Console.ReadLine();
+        // Console.Clear();
         video2.Display();
         Console.WriteLine("");
-        Console.Write("Press enter to continue.");
-        Console.ReadLine();
-        Console.Clear();
+        // Console.Write("Press enter to continue.");
+        // Console.ReadLine();
+        // Console.Clear();
         video3.Display();
         Console.WriteLine("");
-        Console.Write("Press enter to continue.");
-        Console.ReadLine();
-        Console.Clear();
+        // Console.Write("Press enter to continue.");
+        // Console.ReadLine();
+        // Console.Clear();
         video4.Display();
         Console.WriteLine("");
-        Console.Write("Press enter to continue.");
-        Console.ReadLine();
-        Console.Clear();
+        // Console.Write("Press enter to continue.");
+        // Console.ReadLine();
+        // Console.Clear();
     }
 }
