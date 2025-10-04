@@ -11,7 +11,8 @@ public class Product
         _productID = productID;
         _price = price;
         _quantity = quantity;
-        _total = _price * quantity;
+        double quantityTemp = quantity;
+        _total = _price * quantityTemp;
     }
     public string GetName()
     {
