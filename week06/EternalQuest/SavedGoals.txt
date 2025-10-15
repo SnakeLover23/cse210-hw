@@ -1,0 +1,4 @@
+150
+Simple:goal1,description1,10,True
+Eternal:goal2,description2,10
+Checklist:goal3,description3,10,100,3,3
